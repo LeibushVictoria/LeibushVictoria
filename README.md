@@ -11,7 +11,6 @@ ___
 ### :mailbox: Contacts
 - Telegram: https://t.me/levikss
 - LinkedIn: https://www.linkedin.com/in/victoria-leibush
-- Email: leibush.victoria@gmail.com
 ___
 
 ### :gear: My skills
