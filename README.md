@@ -5,7 +5,7 @@ ___
 
 :woman_office_worker: I’m currently working at [Monopoly.Online](https://monopoly.ru/) and at the startup [Pet-Yes](https://pet-yes.com/) 
 
-:books: I'm currently studying [qa.guru](https://qa.guru/) courses
+:books: I'm completed [qa.guru](https://qa.guru/) courses
 ___
 
 ### :mailbox: Contacts
